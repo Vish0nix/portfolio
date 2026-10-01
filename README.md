@@ -2,12 +2,12 @@
 
 [Open the live portfolio](https://vish0nix.github.io/portfolio/)
 
-The site redirects to the projects section. You can also [jump directly to Projects](https://vish0nix.github.io/portfolio/vishal-portfolio.html#projects).
+The live portfolio opens at the Home section.
 
 ## Source
 
 - Portfolio page: [vishal-portfolio.html](vishal-portfolio.html)
-- The root `index.html` redirects to the portfolio projects section.
+- The root `index.html` redirects to the portfolio home page.
 
 ## Deployment
 
